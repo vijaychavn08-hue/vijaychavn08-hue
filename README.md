@@ -4,7 +4,7 @@
 
 > I build scalable test automation frameworks, API automation solutions, and CI/CD quality gates that help teams deliver reliable software with confidence.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaychavhan08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaychavan08/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijaychavn08-hue)
 
 ---

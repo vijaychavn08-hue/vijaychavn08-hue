@@ -64,7 +64,7 @@ I take ownership of automation initiatives, collaborate effectively with cross-f
 
 ## 💻 Tech Stack
 
-**Languages:** Java | JavaScript | SQL
+**Languages:** Java | JavaScript |TypeScript |SQL
 
 **Test Automation:** Selenium WebDriver | Playwright | Appium | TestNG | Cucumber | BDD
 

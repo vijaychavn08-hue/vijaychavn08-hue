@@ -27,7 +27,7 @@ I take ownership of automation initiatives, collaborate effectively with cross-f
 - TestNG
 - Cucumber / BDD
 - Playwright
-- Appium
+- Typescript
 
 ### API Automation
 - REST Assured
@@ -210,7 +210,7 @@ Explore my automation projects on GitHub:
 
 I'm actively exploring opportunities in **SDET, Senior QA Engineer, and Automation Lead** roles. Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaychavhan08)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaychavhan08/)
 [![Naukri](https://img.shields.io/badge/View_on_Naukri-FF6B6B?style=flat-square&logo=briefcase&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&orgn=homepage)
 
 ---
